@@ -218,3 +218,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Keep original downloaded data out of GitHub
+data/
+
+# Ignore Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+
+# Raw Department for Education datasets
+data/
+
+# Python virtual environments
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary Python files
+__pycache__/
+
