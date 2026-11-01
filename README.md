@@ -44,7 +44,27 @@ The local authorities with the highest FSM eligibility percentages in the select
 
 **Interpretation:** FSM eligibility varies across local authorities. However, eligibility is not a comprehensive measure of child poverty, and these descriptive findings do not establish the causes of geographical differences.
 
-## Skills Demonstrated
+
+
+### Finding 2: Regional Differences in FSM Eligibility
+
+The analysis compared FSM eligibility across England's nine regions using unweighted local authority means and pupil-weighted rates.
+
+**Key findings:**
+- North East recorded the highest pupil-weighted rate (31.12%).
+- South West recorded the lowest pupil-weighted rate (19.80%).
+- West Midlands showed the largest positive difference between its unweighted mean (28.27%) and pupil-weighted rate (30.39%).
+
+These results demonstrate how differences in pupil populations can influence regional estimates.
+
+### Regional Comparison
+
+![Regional FSM Comparison](outputs/regional_fsm_comparison.png)
+
+[View Regional Analysis Notebook](notebooks/02_descriptive_statistics.ipynb)
+
+
+# Skills Demonstrated
 
 **Data Analysis:** Python, pandas, data cleaning, filtering and descriptive analysis.
 
